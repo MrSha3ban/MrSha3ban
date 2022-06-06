@@ -1,10 +1,12 @@
 - 👋 Hi, I’m @MrSha3ban
 - 👀 I’m interested in python  and data analysis ...
-- 🌱 I’m currently learning  professional nanodegree scholarship from udacity...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  you can send me an email : mr.sha3ban@hotmail.com...
+- 
+subscribe to  youtube channel https://youtube.com/channel/UCOThFkvoKodjY7KSk5DAwUw
+or  join me on telegram group https://t.me/mrsha3ban
 
-<!---
-MrSha3ban/MrSha3ban is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+or find me on Linkedin http://www.linkedin.com/in/mr-sha3ban
+
+
+
+
+
